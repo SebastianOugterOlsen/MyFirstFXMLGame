@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyFirstFXMLGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyFirstFXMLGame_jar</output-path>
+    <root id="archive" name="MyFirstFXMLGame.jar">
+      <element id="module-output" name="MyFirstFXMLGame" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Skole/fxgl-0.4.1-uber.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
