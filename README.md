@@ -11,11 +11,11 @@ Læs mere om **FXGL** og processen henimod det færdige spil i [**Wiki-sektionen
 
 ## Screenshots
 
-![Screenshot af lvl1](Scrennshot af lvl1.png)
+![Screenshot af lvl1](Screenshots/Scrennshot af lvl1.png)
 
-![Screenshot af lvl2](Screenshot af lvl2.png)
+![Screenshot af lvl2](Screenshots/Screenshot af lvl2.png)
 
-![Screenshot af lvl3](Screenshot af lvl3.png)
+![Screenshot af lvl3](Screenshots/Screenshot af lvl3.png)
 
 
 ## Spilinstruktioner
