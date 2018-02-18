@@ -21,7 +21,7 @@ Læs mere om **FXGL** og processen henimod det færdige spil i [**Wiki-sektionen
 ## Spilinstruktioner
 
 
-Spillet hedder **An APPLE guy's adventure**, og går i alt sin enkelthed ud på at samle alle æblerne gennem de 3 levels, uden at ramme de sindsforstyrredes form for styresystem (Android) og ej heller blive grillet af de røde laisere. 
+Spillet hedder **An APPLE guy's adventure**, og går i alt sin enkelthed ud på at samle alle æblerne gennem de 3 levels, uden at ramme de sindsforstyrredes form for styresystem (Android) og ej heller blive grillet af de røde lasere. 
 Du styrer din _player_ med piletasterne **VENSTRE, HØJRE & OP**  
 Oppe i venstre hjørne af spilvinduet kan du se, hvor mange æbler du har samlet og hvor mange liv du har tilbage. Hvis du løber tør for liv starter spillet forfra fra lvl1.
 

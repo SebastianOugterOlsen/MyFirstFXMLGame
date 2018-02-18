@@ -67,26 +67,15 @@ public class AppleFactory implements EntityFactory {
                 .build();
     }
 
-    @Spawns("laiser")
-    public Entity newlaiser(SpawnData data) {
+    @Spawns("laser")
+    public Entity newlaser(SpawnData data) {
         return Entities.builder()
-                .type(AppleType.LAISER)
+                .type(AppleType.LASER)
                 .from(data)
                 .bbox(new HitBox(BoundingShape.box(data.<Integer>get("width"), data.<Integer>get("height"))))
                 .with(new CollidableComponent(true))
                 .build();
     }
-    @Spawns("laiser2")
-    public Entity newlaiser2(SpawnData data) {
-        return Entities.builder()
-                .type(AppleType.LAISER2)
-                .from(data)
-                .bbox(new HitBox(BoundingShape.box(data.<Integer>get("width"), data.<Integer>get("height"))))
-                .with(new CollidableComponent(true))
-                .build();
-    }
-
-
 
     @Spawns("portal")
     public Entity newPortal(SpawnData data) {

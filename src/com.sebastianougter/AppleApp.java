@@ -179,7 +179,7 @@ public class AppleApp extends GameApplication {
                         System.out.println("Dialog Closed!");
                     });
                 } else {                                                // Hvis man ikke har samlet alle æbler får man denne besked
-                    getDisplay().showMessageBox("THE END! \n\nBut seems like you missed some coins! \n\nTry again to" +
+                    getDisplay().showMessageBox("THE END! \n\nBut seems like you missed some Apples! \n\nTry again to" +
                             " get all of them!", () -> {
                         System.out.println("Dialog Closed!");
                     });
@@ -215,7 +215,7 @@ public class AppleApp extends GameApplication {
             }
         });
 
-        getPhysicsWorld().addCollisionHandler(new CollisionHandler(AppleType.PLAYER, AppleType.LAISER) {
+        getPhysicsWorld().addCollisionHandler(new CollisionHandler(AppleType.PLAYER, AppleType.LASER) {
             @Override
             protected void onCollisionBegin(Entity player, Entity laiser) { //Samme som med ANDROID
 
