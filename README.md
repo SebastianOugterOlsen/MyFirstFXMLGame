@@ -6,7 +6,7 @@ Dette repository indeholder resultatet af udviklingen henimod mit første mini-s
 
 Selve kildekoden kan findes i mappen **"src"**, og spillet kan eksekveres via **jar-filen** - _Husk du skal have **JDK 9** installeret!_ Det er ikke muligt at clone repo direkte til sit **IDEA** og få det til at køre, da jeg har undladt at uploade visse filer og mapper.
 
-Læs mere om **FXGL** og processen henimod det færdige spil i [**Wiki-sektionen**](https://github.com/SebastianOugterOlsen/MyFirstFXMLGame/wiki) og se evt. projektets [**GH Page**](https://dani832m.github.io/MyFirstGame) for en mere visuel præsentation.
+Læs mere om **FXGL** og processen henimod det færdige spil i [**Wiki-sektionen**](https://github.com/SebastianOugterOlsen/MyFirstFXMLGame/wiki) og se evt. projektets [**GH Page**](https://sebastianougterolsen.github.io/MyFirstFXMLGame/) for en mere visuel præsentation.
 
 
 ## Screenshots
@@ -32,5 +32,5 @@ Spillet kan desuden pauses på **Esc**, og du kan tage screenshot in-game på **
 ## Informationer & Credits
 
 - Udviklet af **Sebastian Ougter Olsen** // hhttps://github.com/SebastianOugterOlsen
-- Inspiration fra **AlmasB** // https://github.com/AlmasB
 - Datamatiker, 2. semester, 2018, **EASJ Sjælland** // http://easj.dk
+- Inspiration fra **AlmasB** // https://github.com/AlmasB
